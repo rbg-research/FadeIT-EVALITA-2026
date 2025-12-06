@@ -2,10 +2,10 @@
 FadeIT: Fallacy Detection in Italian Social Media Texts
 
 # Task A - Label Distribution
-![Task A Distribution](figures/TaskA_Distribution of labels_a1.svg)
+![Task A Distribution](figures/TaskA_Distribution%20of%20labels_a1.svg)
 
 # Task B - Label Distribution
-![Task B Distribution](figures/TaskB_Distribution of labels_a1.svg)
+![Task B Distribution](figures/TaskB_Distribution%20of%20labels_a1.svg)
 
 # Task A - Prompt Performance
 ![Task A Prompt Performance](figures/TaskA_Prompt_performance.svg)
